@@ -13,4 +13,5 @@ This undergraduate research project develops the differential and metric geometr
 
 ## Repository Contents
 
-* **`notes/` (PDF):** Final research and seminar notes containing complete definitions, rigorous proofs, worked examples, and geometric visualizations.
+* **`notas.pdf`:** Final research and seminar notes containing complete definitions, rigorous proofs, worked examples, and geometric visualizations.
+* **`presentacion.pdf`:** Slides prepared and delivered for the research seminar, presenting the main concepts, mathematical results, and geometric developments of the project.
