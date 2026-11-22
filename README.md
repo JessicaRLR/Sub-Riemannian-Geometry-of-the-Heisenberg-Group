@@ -2,7 +2,7 @@
 
 **Author:** Jessica Rubí Lara Rosales  
 **Contact:** [jessica.lara@cimat.mx](mailto:jessica.lara@cimat.mx)  
-**Institution:** Center for Research in Mathematics (CIMAT)
+**Institution:** Center for Research in Mathematics (CIMAT)  
 **Advisor:** Dr. Luis Hernández Lamoneda  
 **Period:** April 2023 – November 2023
 
