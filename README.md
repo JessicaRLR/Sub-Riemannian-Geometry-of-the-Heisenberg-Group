@@ -1,9 +1,10 @@
 # Sub-Riemannian Geometry of the Heisenberg Group
 
 **Author:** Jessica Rubí Lara Rosales  
-**Advisor:** Dr. Luis Hernández Lamoneda  
 **Contact:** [jessica.lara@cimat.mx](mailto:jessica.lara@cimat.mx)  
 **Institution:** Center for Research in Mathematics (CIMAT)
+**Advisor:** Dr. Luis Hernández Lamoneda  
+**Period:** April 2023 – November 2023
 
 ---
 
